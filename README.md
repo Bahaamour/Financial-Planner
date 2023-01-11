@@ -1,5 +1,5 @@
 # Financial-Planner
-![An image for the header of the Repository](./Financial-Planner/Images/Financial_planning.png)
+![An image for the header of the Repository](../Financial-Planner/Images/Financial_planning.png)
 
 This project help credit union members evaluate their financial health by:
 
@@ -9,11 +9,17 @@ This project help credit union members evaluate their financial health by:
 ## Technologies
 This platform uses python 3.7.13 with the following libraries:
 
+
 Pandas
+
 os
+
 json
+
 requests
+
 dotenv
+
 alpaca_trade_api
 
 ---
