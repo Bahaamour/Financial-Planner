@@ -1,5 +1,5 @@
 # Financial-Planner
-![An image for the header of the Repository](../Financial-Planner/Images/Financial_planning.png)
+![An image for the header of the Repository](/Users/bahaaamour/Desktop/Financial-Planner/Images/Financial_planning.png)
 
 This project help credit union members evaluate their financial health by:
 
