@@ -10,17 +10,59 @@ This project help credit union members evaluate their financial health by:
 This platform uses python 3.7.13 with the following libraries:
 
 
-Pandas
+`Pandas`
 
-os
+`os`
 
-json
+`json`
 
-requests
+`requests`
 
-dotenv
+`dotenv`
 
-alpaca_trade_api
+`alpaca_trade_api`
+
+---
+## Installation Guide
+
+To install `pandas` and `numpy` libraries, run the following code in your terminal 
+
+```python
+pip install pandas
+
+pip install numpy
+```
+
+To intsall `requests` and `json` libraries, run the following code in your terminal. Ensuring that your development environment is activated before running the code:
+
+For activating your development environment.
+
+```python
+conda activate dev
+```
+
+For Request library.
+
+```python
+conda install -c anaconda requests
+```
+
+For Json library.
+
+```python
+conda install -c jmcmurray json
+```
+
+In order to interact with APIs a `python-dotenv` library and ALPACA SDK needs to be installed.
+
+```python
+pip install python-dotenv
+```
+
+```python
+pip install alpaca-trade-api
+```
+
 
 ---
 
