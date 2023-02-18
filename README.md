@@ -1,7 +1,7 @@
 # Financial-Planner
 ![An image for the header of the Repository](/Images/Financial_planning.png)
 
-This project help credit union members evaluate their financial health by:
+This project helps credit union members evaluate their financial health by:
 
 1. Giving them the ability to assess their monthly budget.
 2. They'll be able to forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds.
